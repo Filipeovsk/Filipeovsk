@@ -30,6 +30,8 @@
 
 - Integração entre FastAPI + React
 
+- Flutter para desenvolvimento de apps multiplataforma
+
 - Deploy com Docker e serviços cloud
 
 - Testes automatizados com Pytest e Playwright
