@@ -19,14 +19,6 @@
 </div>
 
 
-### 📊 Estatísticas do GitHub
-
-<div style="display: inline_block" align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Filipeovsk&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&include_all_commits=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipeovsk&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&langs_count=6"/>
-</div>
-
-
 ### 📫 Entre em contato comigo
 - 💼 [LinkedIn](www.linkedin.com/in/filipe-rocha-07b2b5261)
 - 📧 Email: felipe.kw@hotmail.com
