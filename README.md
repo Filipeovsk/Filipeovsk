@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C4E80&height=84&section=header"/>
-<h1 align="center"> Olá, eu sou o Filipe Rocha</h1>
+<h1 align="center"> Olá, me chamo Filipe </h1>
 
 <p align="center">
   💻 Desenvolvedor Backend | Python • FastAPI • SQL <br/>
