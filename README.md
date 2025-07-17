@@ -3,7 +3,7 @@
 
 <p align="center">
   💻 Desenvolvedor Backend | Python • FastAPI • SQL <br/>
-  🚀 Atualmente cursando Analise e Desenvolvimento de sistemas | estudando arquitetura de APIs e automação RPA <br/>
+  🚀 Atualmente cursando Analise e Desenvolvimento de sistemas <br/>
   📍 Brasil
 
 </p>
