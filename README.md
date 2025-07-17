@@ -18,15 +18,31 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-
 ### 📫 Entre em contato comigo
-- 💼 [LinkedIn](www.linkedin.com/in/filipe-rocha-07b2b5261)
+- 💼 [LinkedIn](https://www.linkedin.com/in/filipe-rocha-07b2b5261)
 - 📧 Email: felipe.kw@hotmail.com
 
+---
 
 ### 🧠 Em desenvolvimento
-Atualmente praticando:
-- Integração entre **FastAPI + React**
+
+<img align="right" alt="Coding gif" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47pmu8cdg5lqd3m78fuoqpmg0819nuo3hk8qar25iz&rid=giphy.gif&ct=g" width="300px"/>
+
+- Integração entre FastAPI + React
+
 - Deploy com Docker e serviços cloud
+
 - Testes automatizados com Pytest e Playwright
+
+- Análise e Modelagem de Sistemas: requisitos, casos de uso, artefatos e UML
+
+- Desenvolvimento Full Stack com React, Flask, APIs REST e frameworks modernos
+
+- CI/CD & Garantia de Qualidade: integração contínua, QA e modelos de maturidade
+
+- UX & Design Thinking: personas, jornadas, wireframes e testes de usabilidade
+
+- Arquitetura de Software: visão geral, tecnologias-chave, POC e agilidade
+---
+ 
 
