@@ -29,14 +29,16 @@
 
 <img align="right" alt="Coding gif" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47pmu8cdg5lqd3m78fuoqpmg0819nuo3hk8qar25iz&rid=giphy.gif&ct=g" width="300px"/>
 
-🧠 Em desenvolvimento
-Coding gif
-
 Análise e Modelagem de Sistemas: requisitos, casos de uso e UML.
+
 Frameworks Full Stack: desenvolvimento de aplicações completas e APIs.
+
 Quality Assurance - QA: testes de software e garantia de qualidade.
+
 Software Product: Analysis & Specification: análise e documentação de produtos.
+
 UX & Design Thinking: personas, jornadas, wireframes e usabilidade.
+
 ---
  
 
