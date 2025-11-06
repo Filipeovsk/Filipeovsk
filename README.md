@@ -29,23 +29,14 @@
 
 <img align="right" alt="Coding gif" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47pmu8cdg5lqd3m78fuoqpmg0819nuo3hk8qar25iz&rid=giphy.gif&ct=g" width="300px"/>
 
-- Integração entre FastAPI + React
+🧠 Em desenvolvimento
+Coding gif
 
-- Flutter para desenvolvimento de apps multiplataforma
-
-- Deploy com Docker e serviços cloud
-
-- Testes automatizados com Pytest e Playwright
-
-- Análise e Modelagem de Sistemas: requisitos, casos de uso, artefatos e UML
-
-- Desenvolvimento Full Stack com React, Flask, APIs REST e frameworks modernos
-
-- CI/CD & Garantia de Qualidade: integração contínua, QA e modelos de maturidade
-
-- UX & Design Thinking: personas, jornadas, wireframes e testes de usabilidade
-
-- Arquitetura de Software: visão geral, tecnologias-chave, POC e agilidade
+Análise e Modelagem de Sistemas: requisitos, casos de uso e UML.
+Frameworks Full Stack: desenvolvimento de aplicações completas e APIs.
+Quality Assurance - QA: testes de software e garantia de qualidade.
+Software Product: Analysis & Specification: análise e documentação de produtos.
+UX & Design Thinking: personas, jornadas, wireframes e usabilidade.
 ---
  
 
